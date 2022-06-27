@@ -1,6 +1,6 @@
 /*
  * File: 10-check_cycle.c
- * Author: Ukonu Divine Chisom
+ * Author: Yovo Koffi Vianney
  */
 
 #include <stdlib.h>
