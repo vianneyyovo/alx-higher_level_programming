@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 100-my_calculator.py
-# Ukonu Divine Chisom
+# Yovo Koffi Vianney
 
 if __name__ == "__main__":
     """Handle basic arithmetic operations."""

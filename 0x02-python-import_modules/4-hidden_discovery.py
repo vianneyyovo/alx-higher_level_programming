@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 4-hidden_discovery.py
-# Ukonu Divine Chisom
+# Yovo Koffi Vianney
 
 if __name__ == "__main__":
     """Print all names defined by hidden_4 module."""

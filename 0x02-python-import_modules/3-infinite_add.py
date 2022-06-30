@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 3-infinite_add.py
-# Ukonu Divine Chisom
+# Yovo Koffi Vianney
 
 if __name__ == "__main__":
     """Print the addition of all arguments."""

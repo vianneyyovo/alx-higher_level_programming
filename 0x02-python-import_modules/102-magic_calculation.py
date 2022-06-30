@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 102-magic_calculation.py
-# Ukonu Divine Chisom
+# Yovo Koffi Vianney
 
 
 def magic_calculation(a, b):

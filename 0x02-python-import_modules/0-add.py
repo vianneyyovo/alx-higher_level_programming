@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 0_add.py
-# Ukonu Divine Chisom
+# Yovo Koffi Vianney
 
 if __name__ == "__main__":
     """Print the sum of 1 and 2."""
