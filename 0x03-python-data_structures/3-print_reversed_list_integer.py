@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 3-print_reversed_list_integer.py
-# Ukonu Divine Chisom
+# Yovo Koffi Vianney
 
 
 def print_reversed_list_integer(my_list=[]):

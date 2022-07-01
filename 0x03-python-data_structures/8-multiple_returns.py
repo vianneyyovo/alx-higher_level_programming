@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 8-multiple_returns.py
-# Ukonu Divine Chisom
+# Yovo Koffi Vianney
 
 
 def multiple_returns(sentence):

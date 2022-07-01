@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 5-no_c.py
-# Ukonu Divine Chisom
+# Yovo Koffi Vianney
 
 
 def no_c(my_string):

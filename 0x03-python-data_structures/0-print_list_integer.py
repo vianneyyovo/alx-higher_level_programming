@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 0-print_list_integer.py
-# Ukonu Divine Chisom
+# Yovo Koffi Vianney
 
 
 def print_list_integer(my_list=[]):

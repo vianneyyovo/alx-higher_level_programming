@@ -1,6 +1,6 @@
 /*
  * File: 13-is_palindrome.c
- * Author: Ukonu Divine Chisom
+ * Author: Yovo Koffi Vianney
  */
 
 #include "lists.h"

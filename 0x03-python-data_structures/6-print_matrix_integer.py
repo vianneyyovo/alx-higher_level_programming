@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 6-print_matrix_integer.py
-# Ukonu Divine Chisom
+# Yovo Koffi Vianney
 
 
 def print_matrix_integer(matrix=[[]]):

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 4-new_in_list.py
-# Ukonu Divine Chisom
+# Yovo Koffi Vianney
 
 
 def new_in_list(my_list, idx, element):
