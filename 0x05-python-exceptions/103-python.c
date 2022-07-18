@@ -1,6 +1,6 @@
 /*
  * File: 103-python.c
- * Author: Ukonu Divine Chisom
+ * Author: Yovo Koffi Vianney
  */
 
 #include <Python.h>

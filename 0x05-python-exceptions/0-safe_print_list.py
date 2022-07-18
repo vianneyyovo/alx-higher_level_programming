@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 0-safe_print_list.py
-# Ukonu Divine Chisom
+# Yovo Koffi Vianney
 
 
 def safe_print_list(my_list=[], x=0):
